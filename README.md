@@ -1,2 +1,3 @@
 # Projects
-This ia a project created my Mahesh Jaishi
+This ia my first Git repository.
+Author - Mahesh Jaishi
